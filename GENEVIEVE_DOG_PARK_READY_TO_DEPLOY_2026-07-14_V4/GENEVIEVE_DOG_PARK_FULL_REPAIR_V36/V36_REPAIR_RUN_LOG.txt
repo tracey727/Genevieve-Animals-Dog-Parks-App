@@ -1,0 +1,6 @@
+﻿GENEVIEVE V36 repair started
+[11:45:51] Finding the Dog Park project currently open on this computer...
+[11:45:52] Selected repository: C:\Users\onlyp\Genevieve Projects\Genevieve-Animals-Dog-Parks-App\GENEVIEVE_DOG_PARK_READY_TO_DEPLOY_2026-07-14_V4
+[11:45:52] Safety backup created: C:\Users\onlyp\Genevieve Projects\Genevieve-Animals-Dog-Parks-App\GENEVIEVE_DOG_PARK_READY_TO_DEPLOY_2026-07-14_V4\_BACKUP_BEFORE_V36_20260730_114552
+[11:45:52] Exact archived GA and Tree and Roots masters copied into the app.
+ERROR: The Journey screen was missing and the safe insertion point could not be found.
